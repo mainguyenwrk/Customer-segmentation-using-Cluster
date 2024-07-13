@@ -1,4 +1,4 @@
-**SmartWatch Data Analysis and Clustering**
+**USING CLUSTERING FOR CUSTOMER SEGMENTATION & MARKETING STRATEGY**
 
 **1. THE CHALLENGE**
 
